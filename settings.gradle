@@ -1,0 +1,2 @@
+rootProject.name='AndroidClientServer'
+include ':app'
